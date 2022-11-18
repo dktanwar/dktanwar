@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![Twitter Follow](https://img.shields.io/mastodon/follow/109273683071196226?domain=https%3A%2F%2Fgenomic.social&style=social)](https://genomic.social/@dktanwar)
 [![Twitter Follow](https://img.shields.io/twitter/follow/d_k_tanwar?label=Follow)](https://twitter.com/intent/follow?screen_name=d_k_tanwar)
 ![GitHub followers](https://img.shields.io/github/followers/dktanwar?label=Follow&style=social)
 ![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=dktanwar.dktanwar)

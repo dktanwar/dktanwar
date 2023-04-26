@@ -34,7 +34,7 @@ Here are some ideas to get you started:
     />
 </a>
 
--->
+
 
 
 # DeepakTanwar
@@ -42,3 +42,4 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dktanwar&layout=compact&theme=dracula)
 
 ![Metrics](https://github.com/dktanwar/dktanwar/blob/master/github-metrics.svg)
+-->

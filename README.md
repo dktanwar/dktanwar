@@ -40,6 +40,6 @@ Here are some ideas to get you started:
 # DeepakTanwar
 ![Deepak's profile](https://github-readme-stats.vercel.app/api?username=dktanwar&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dktanwar&layout=compact&theme=dracula)
-
-![Metrics](https://github.com/dktanwar/dktanwar/blob/master/github-metrics.svg)
 -->
+![Metrics](https://github.com/dktanwar/dktanwar/blob/master/github-metrics.svg)
+
